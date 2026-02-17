@@ -16,11 +16,6 @@ https://milrn.github.io/highschool-competitions/
 
 ## What does everything mean?
 
-### Difficulties
-- Difficulties are provided to competitions that are easy to judge. If a competition you have participated in does not have a difficulty yet, and you have one in mind, check the contribution section below.
-- Lowest Difficulty: ★☆☆☆☆
-- Highest Difficulty: ★★★★★
-- Difficulty is normally proportional to prestige, but not always.
 ### Descriptions
 - Descriptions provide a brief overview of the competition.
 - Descriptions may include age requirements, grade requirements, and prize rewards.
@@ -37,9 +32,9 @@ https://milrn.github.io/highschool-competitions/
 - Then fork the project and add your competition entry in so that each list remains in alphabetical order (do not forget commas when necessary).
 - Your competition entry should look like this:
 
-#### "[Name of Competition] (Optional) => [(Difficulty [Stars]): [Description (Normally ends with age/grade eligibility)] [Homepage]"
+#### "[Name of Competition]: [Description (Normally ends with age/grade eligibility)] [Homepage]"
 
-#### Ex. "Wharton Global High School Investment Competition (Difficulty ★★★★☆): Teams manage a virtual portfolio, making investment decisions based on market conditions and economic factors. Teams compete for the best portfolio performance while gaining valuable experience in financial analysis and decision-making. Open to grades 9-12. https://globalyouth.wharton.upenn.edu/competitions/investment-competition/"
+#### Ex. "Wharton Global High School Investment Competition: Teams manage a virtual portfolio, making investment decisions based on market conditions and economic factors. Teams compete for the best portfolio performance while gaining valuable experience in financial analysis and decision-making. Open to grades 9-12. https://globalyouth.wharton.upenn.edu/competitions/investment-competition/"
 
 #### Ex. "USA National Chemistry Olympiad: Challenges students with advanced chemistry concepts through rigorous exams, with top performers advancing to represent the US at the International Chemistry Olympiad. Open to grades 9-12. https://www.acs.org/education/olympiad.html"
 
@@ -69,7 +64,7 @@ https://milrn.github.io/highschool-competitions/
 - Follow the steps in the Adding New Competitions section if you are confused about how to do this.
 - Once all these steps have been completed, please make a new pull request on this repository, requesting to merge your main branch with this repository's main branch. Mantainers should be allowed to make edits to the pull request in case there is a basic error.
 
-### Difficulties & Descriptions
+### Descriptions
 
 - These changes are pretty self explanatory, just refer to other entries in the competition.json file and follow the same format.
 - After you add the necessary changes to your forked repository, please make a new pull request on this repository, requesting to merge your main branch with this repository's main branch. Mantainers should be allowed to make edits to the pull request in case there is a basic error.
